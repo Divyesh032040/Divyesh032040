@@ -3,9 +3,9 @@
 <img align="right" alt="coding"width="400"src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyesh032040&label=Profile%20views&color=0e75b6&style=flat" alt="divyesh032040" /> </p>
 
-- 🔭 I’m currently working on Improve my Problem Solving Skill 
+- 🚀 Actively enhancing my development prowess to reach new heights!
 
-- 🌱 I’m currently learning **Data structur and algorithms C++**
+- 🌱 🌐 Enthusiastically immersing myself in the world of Web Development to cultivate cutting-edge skills.
 
 - 📫 How to reach me **divyeshparmar607@gmail.com**
 
