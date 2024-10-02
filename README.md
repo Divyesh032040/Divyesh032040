@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyesh032040&label=Profile%20views&color=0e75b6&style=flat" alt="divyesh032040" /> </p>
 <img  align="right" alt="coding"width="400"src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
 
-- 🔭 I’m currently working at Technozions as  **Full Stack developer**
+- 🔭 I’m currently working at Technozions as  **Full Stack Developer**
 
-- 👨‍💻 porsonal project : working on **React time voice chat web application called VocalLink**
+- 👨‍💻 porsonal project : working on **Real time voice chat web application called VocalLink**
  
 - 🌱 I’m currently exploring databases, **algorithms, and backend development.**
 
