@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyesh032040&label=Profile%20views&color=0e75b6&style=flat" alt="divyesh032040" /> </p>
 <img  align="right" alt="coding"width="400"src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
 
-- 🔭 I’m currently working as **Full Stack Developer @Teachnozions**
+- 🔭 I’m currently working as **Full Stack Developer @Bytesbizz Technology LLP **
 
 - 👨‍💻 porsonal project : working on **Real time voice chat web application called VocalLink**
  
