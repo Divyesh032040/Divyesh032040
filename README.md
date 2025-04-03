@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **cool, tech-driven projects.**
 
-- 👨‍💻 Check out my latest project at [https://github.com/Divyesh032040/Youtube-Backend](https://github.com/Divyesh032040/Youtube-Backend)
+- 👨‍💻 Check out my latest project at [https://github.com/Divyesh032040/mystery-message-nextjsapp](https://github.com/Divyesh032040/mystery-message-nextjsapp)
 
 - 💬 Ask me about **MERN Stack , DSA , Database Design etc.**
 
