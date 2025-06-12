@@ -5,11 +5,12 @@
 <img  align="right" alt="coding"width="400"src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
 
 
-- 👨‍💻 porsonal project : working on **Real time voice chat web application called VocalLink**
- 
-- 🌱 I’m currently exploring databases, **algorithms, and backend development.**
+- 👨‍💻 **Personal Project:** Currently building a **real-time voice chat web application** named **VocalLink**, focused on seamless communication and low-latency performance.
 
-- 👯 I’m looking for new opportunities in the **MERN stack** domain.
+- 🌱 **Learning Focus:** Deepening my understanding of **databases**, mastering **algorithms**, and strengthening my skills in **backend development**.
+
+- 👯 **Opportunities:** Actively seeking **full-time opportunities** in the **MERN stack** ecosystem, where I can contribute, grow, and build impactful products.
+
 
 - 👨‍💻 Check out my latest project at [https://github.com/Divyesh032040/mystery-message-nextjsapp](https://github.com/Divyesh032040/mystery-message-nextjsapp)
 
